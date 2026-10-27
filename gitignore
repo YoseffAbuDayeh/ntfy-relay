@@ -1,0 +1,4 @@
+.env
+ntfy-cache/
+.venv/
+__pycache__/
